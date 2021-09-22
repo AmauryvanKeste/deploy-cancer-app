@@ -11,7 +11,6 @@ import pandas as pd
 from typing import Tuple
 import matplotlib.pyplot as plt
 # import matplotlib.image as mpimg
-import tensorflow
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
